@@ -12,7 +12,7 @@ I'm a **Business Information Technology professional** with a strong background 
 - **Business Systems Analysis tools**: Scrum, Figma, Shortcut, draw.io,
 - **Technical Leadership**: Mentorship, stakeholder coordination, progect management
 
-## 🌍 Languages Spoken
+### 🌍 Languages Spoken
 - **English** 🇬🇧
 - **Chichewa** 🇲🇼
 
