@@ -11,7 +11,11 @@ I'm a **Business Information Technology professional** with a strong background 
 - **Business Systems Analysis**: Requirements gathering, process improvement, business process mapping
 - **Business Systems Analysis tools**: Scrum, Figma, Shortcut, draw.io,
 - **Technical Leadership**: Mentorship, stakeholder coordination, progect management
-- **Languages**: English, Chichewa
+
+## 🌍 Languages Spoken
+- **English** 🇬🇧
+- **Chichewa** 🇲🇼
+
 
 ## GitHub Stats
 ![KytonThaundi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KytonThaundi&show_icons=true&theme=solarized-dark)
