@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hi, I'm Kyton Thaundi
 
-I'm a **Business Information Technology professional** with a strong background in, **business systems analysis**, and **technical leadership**. My passion lies in leveraging technology to improve livelyhoods. I hava experience in employing **health informatics systems** to improve healthcare delivery, especially through Electronic Medical Records (EMRs) implementing differentiated service delivery models and decision support.
+I'm a **Business Information Technology professional** with a strong background in, **business systems analysis**, and **technical leadership**. My passion lies in leveraging technology to improve livelyhoods. I hava experience in employing **health informatics systems** to improve healthcare delivery, especially through Electronic Medical Records (EMRs) implementing decision support in compliance with clinical guidelines.
 
 - 💼 Currently serving as a Business Systems Analyst
 - 🎓 Graduated from University of Malawi
