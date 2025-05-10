@@ -28,10 +28,10 @@ I'm a **Business Information Technology professional** with a strong background 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KytonThaundi&show_icons=true&theme=solarized-dark&cache_seconds=1" alt="KytonThaundi's GitHub Stats"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=KytonThaundi&show_icons=true&theme=solarized-dark&cache_seconds=0" alt="KytonThaundi's GitHub Stats"  />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KytonThaundi&layout=compact&theme=solarized-dark&cache_seconds=1"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KytonThaundi&layout=compact&theme=solarized-dark&cache_seconds=0"/>
     </td>
   </tr>
 </table>
