@@ -18,24 +18,9 @@ A **Business Information Technology professional** with a strong background in, 
 - **English** 🇬🇧
 - **Chichewa** 🇲🇼
 
-
-## 🚀 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KytonThaundi&show_icons=true&theme=solarized-dark&cache_seconds=0" alt="KytonThaundi's GitHub Stats"  />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KytonThaundi&layout=compact&theme=solarized-dark&cache_seconds=0"/>
-    </td>
-  </tr>
-</table>
-
-
 ### 📫 Connect with Me
 - **LinkedIn:** [Kyton Thaundi](https://www.linkedin.com/in/kyton-thaundi-60a98599/)
-- **Email:** [email Kyton](mailto:kythaundi@gmail.com)
+- **Wed:** [thaundi.com](https://thaundi.com)
 
 ### 🎯 Let's Collaborate
 I'm always open to new opportunities in **Business Analysis**, **product ownership**, **health informatics**, and **tech-driven healthcare solutions**. Let's build something impactful together!
